@@ -7,7 +7,7 @@
 
 class Notes  {
 	public static void main(String args[]) {
-
+ 
 		// Documentation/multi line comments
 
 		/*
