@@ -1,3 +1,10 @@
+/**
+* File Name: Lesson 1.3 - Strings
+* Author: Weiya Liu
+* Date Created: Feb 19, 2026
+* Date Last Modified: Feb 20, 2026
+*/
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
